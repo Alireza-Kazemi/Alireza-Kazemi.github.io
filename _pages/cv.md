@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
- [Download my most recent CV here](http://alireza-kazemi.github.io/files/CV.pdf)
+ [Download my most recent CV here](https://alireza-kazemi.github.io/files/CV.pdf)
   
   
 Education

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alireza Kazemi / Personal Webpage"
+title                    : "Alireza Kazemi"
 title_separator          : "-"
 name                     : &name "Alireza Kazemi"
 description              : &description "I"
@@ -86,7 +86,7 @@ author:
   location         : "University of California, Davis"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=tNqE8B4AAAAJ&hl=en"
+  googlescholar    : &googlescholar "https://scholar.google.com/citations?user=tNqE8B4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

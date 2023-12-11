@@ -1,26 +1,11 @@
 ---
-layout: archive
-title: ""
+layout: cv
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: cv
+nav: true
+nav_order: 4
+cv_pdf: example_pdf.pdf
+description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+toc:
+  sidebar: left
 ---
-
- [Download my most recent CV here](https://alireza-kazemi.github.io/files/CV.pdf)
-  
-  
-Education
-======
-
-* Expected 2024 PhD Candidate, Developmental and Cognitive Psychology
-  * University of California, Davis, CA
-
-* 2020 MA, Developmental and Cognitive Psychology
-  * University of California, Davis, CA
-
-* 2014 MSc, Biomedical Engineering
-  * University of Tehran, Tehran, Iran
-  
-* BSc, Electronic Engineering
-  * Shahid Beheshti University, Tehran, Iran

@@ -83,7 +83,7 @@ author:
   name             : "Alireza Kazemi"
   avatar           : "ProfilePic.jpg"
   bio              : #"Your biography for the left-hand sidebar"
-  location         : "University of California, Davis"
+  location         : "University of Utah"
   employer         :
   pubmed           : 
   googlescholar    : &googlescholar "https://scholar.google.com/citations?user=tNqE8B4AAAAJ&hl=en"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Alirezakzmi"
+  twitter          :
   vine             :
   weibo            :
   xing             :

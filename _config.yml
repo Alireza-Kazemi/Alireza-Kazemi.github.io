@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Alireza Kazemi"
   avatar           : "ProfilePic.jpg"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : "In pursuit of answers to all Ws about 'I,' the concept dispersed within a gray volume."
   location         : "University of Utah"
   employer         :
   pubmed           : 
   googlescholar    : &googlescholar "https://scholar.google.com/citations?user=tNqE8B4AAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  https://www.researchgate.net/profile/Alireza-Kazemi-13
   uri              :
   bitbucket        :
   codepen          :

@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 
-* Expected 2024 PhD Candidate, Developmental and Cognitive Psychology
+* 2024 PhD, Developmental and Cognitive Psychology
   * University of California, Davis, CA
 
 * 2020 MA, Developmental and Cognitive Psychology
